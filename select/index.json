@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Godzilla",
+  "base_artist": "Eminem",
+  "createdAt": "2025-12-04T23:21:06.548949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Godzilla (feat. Juice WRLD)",
+      "artist": "Eminem feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/01_Godzilla_(feat._Juice_WRLD)_Eminem_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Godzilla (feat. Juice WRLD)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Godzilla_(feat._Juice_WRLD)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/03_Godzilla_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Eminem ft. Juice WRLD",
+      "has_synced": true,
+      "path": "select/04_Godzilla_Eminem_ft._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Biotech Is Godzilla",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/05_Biotech_Is_Godzilla_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Biotech Is Godzilla",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/06_Biotech_Is_Godzilla_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Biotech Is Godzilla - Live",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/07_Biotech_Is_Godzilla_-_Live_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Biotech Is Godzilla (Live)",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/08_Biotech_Is_Godzilla_(Live)_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GODZILLA",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/09_GODZILLA_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are Godzilla You Are Japan",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/10_We_Are_Godzilla_You_Are_Japan_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are Godzilla, You Are Japan",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/11_We_Are_Godzilla,_You_Are_Japan_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Feeder",
+      "has_synced": true,
+      "path": "select/12_Godzilla_Feeder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/13_Godzilla_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/14_Godzilla_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Eminem, Juice WRLD",
+      "has_synced": true,
+      "path": "select/15_Godzilla_Eminem,_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Godzilla Flick",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/16_Godzilla_Flick_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Godzilla",
+      "artist": "Blue Oyster Cult",
+      "has_synced": true,
+      "path": "select/17_Godzilla_Blue_Oyster_Cult.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Godzilla (feat. Juice WRLD)",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Godzilla_(feat._Juice_WRLD)_Eminem.txt"
+    }
+  ]
+}
